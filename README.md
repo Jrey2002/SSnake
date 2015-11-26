@@ -2,7 +2,7 @@
 /*
 JavaScript Snake
 By Patrick Gillespie
-http://patorjk.com/games/snake
+http://snakebyJR.com
 */
 
 /**
